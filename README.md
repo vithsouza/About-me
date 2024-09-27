@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vithsouza ou Vithoria Cabreira
-- 👀 I’m interested in HTML and CSS
-- 🌱 I’m currently learning many languages
+- 👀 I’m interested in Java
 - 💞️ I’m looking for new challenges
 - 📫 How to reach me ... email ou send me a dm on insta
 
